@@ -33,7 +33,7 @@ his role as sheriff, but rather as a deputy, with his maximum life played as suc
 - Max number of cards in hand at end of turn equal to current number of life points.
 - When killing an Outlaw: draw 3 cards.
 - If Sheriff kills a deputy: discard all cards in hand and in play.
-Alive players may choose to keep their character.
+- Alive players may choose to keep their character.
 
 *Remember*:
 
