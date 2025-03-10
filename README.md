@@ -9,15 +9,12 @@
 - When killing an Outlaw: draw 3 cards.
 - If Sheriff kills a deputy: discard all cards in hand and in play.
 - Alive players may choose to keep their character.
-
-*Remember*:
-
 - Dynamite must be placed upon yourself and wait a whole turn to activate it.
 - Panic and Cat Balou can be used to remove a card from your board such as
-dynamite but you **must Draw! for dynamite first**.
+dynamite or jail but you **must Draw! for dynamite first**.
 
 ## Playing Cards
-### Blue Cards (stays in play)
+### Blue Cards (stay in play)
 
 - **Barrel**: allows you to Draw! when hit by a Bang! card. If you draw a heart card,
 counts as a Mancato!. Otherwise nothing happens.
@@ -28,7 +25,7 @@ apply effect if appropriate, and discard it.
 Then Draw!, if dynamites explodes you lose 3 life points and discard the card.
 Otherwise pass the card along. Dynamite stays in play until explodes or is
 discarded by a Panic! or Cat Balou.
-- **Jail**: play this card in from of any player regardless of distance).
+- **Jail**: play this card in from of any player regardless of distance.
 If you are in jail, Draw! before the start of your turn.
 If you draw a heart card, you escape jail and proceed with your turn.
 Otherwise, your turn is skipped and discard the card.
